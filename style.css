@@ -35,7 +35,12 @@ nav ul li a {
 main {
     padding: 20px;
 }
-
+img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 section {
     background: #fff;
     margin: 20px 0;
